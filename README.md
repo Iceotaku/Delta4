@@ -44,11 +44,15 @@ Main Youtube Channel : https://www.youtube.com/channel/UCS1YLB2ykUdPMWRzul_uQZw
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Project (Latest update 12/1/2024)
+# Support Project ( update 9/19/2025)
 
-Buymeacoffee : https://buymeacoffee.com/iceotaku
+Github : https://github.com/sponsors/Iceotaku
 
-Paypal : https://paypal.me/Iceotaku2023
+Buy me a coffee : https://buymeacoffee.com/iceotaku
+
+Ko-Fi : https://ko-fi.com/iceotaku
+
+Paypal : It's now private Contact me on DM if want to donate or supported on Paypal
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -74,30 +78,30 @@ Create Project At
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Preview
+# Preview ( Update 9/19/2025 )
 
 Main Menu ( Songselect V1 )
 
 ![new Main menu V1](https://github.com/user-attachments/assets/31b6109a-f311-4f70-924c-321dc8c76933)
 
-(New) Main Menu (Songselect V2 )
+(New) Main Menu ( Songselect V2 )
 
-![new Main menu V2](https://github.com/user-attachments/assets/7b4d5504-ca72-4164-92cf-e47f9f1d96fa)
+<img width="1921" height="1080" alt="new Main menu V2" src="https://github.com/user-attachments/assets/b3624e6a-6a38-4f91-a3dc-89e101ca740e" />
 
 Gameplay ( STD )
 
-![STD](https://github.com/user-attachments/assets/2092d879-27a4-49a0-9895-670c65f4e94a)
+<img width="1921" height="1080" alt="STD" src="https://github.com/user-attachments/assets/e0269b13-0fca-4df1-9d7c-8db8c8d52685" />
 
 Gameplay ( Tako )
 
-![Taiko](https://github.com/user-attachments/assets/77405d13-f7ed-4cb5-8f70-a9a83e3ac5b5)
+<img width="1921" height="1080" alt="Taiko" src="https://github.com/user-attachments/assets/90c9f634-56d6-4def-a5c9-838bccbe2872" />
 
 Gameplay ( Ctb )
 
-![CTB](https://github.com/user-attachments/assets/5bd1475b-012c-496c-8d32-a10c710d3baf)
+<img width="1921" height="1080" alt="CTB" src="https://github.com/user-attachments/assets/5f50f66b-fddf-45a0-8dc1-0716f35dac3b" />
 
 Gameplay ( Mania )
 
-![Mania](https://github.com/user-attachments/assets/e241be14-14f6-43fe-9c11-0215eb334526)
+<img width="1921" height="1080" alt="Mania" src="https://github.com/user-attachments/assets/cb9161c7-1c7c-4a5c-b0dd-69867beef4ac" />
 
 -----------------------------------------------------------------------------------------------------------------
