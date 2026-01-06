@@ -80,7 +80,7 @@ Create Project At
 
 # Preview ( Update 6/1/2026 )
 
-Main Menu ( Songselect V1 ) This one has legacy now not not deleted yet
+Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
 <img width="1921" height="1080" alt="new Main menu V1" src="https://github.com/user-attachments/assets/4ad88a0c-92ed-4904-a4f3-5cb7325662ac" />
 
