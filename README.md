@@ -78,30 +78,30 @@ Create Project At
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Preview ( Update 9/19/2025 )
+# Preview ( Update 6/1/2026 )
 
-Main Menu ( Songselect V1 )
+Main Menu ( Songselect V1 ) This one has legacy now not not deleted yet
 
-![new Main menu V1](https://github.com/user-attachments/assets/31b6109a-f311-4f70-924c-321dc8c76933)
+<img width="1921" height="1080" alt="new Main menu V1" src="https://github.com/user-attachments/assets/4ad88a0c-92ed-4904-a4f3-5cb7325662ac" />
 
 (New) Main Menu ( Songselect V2 )
 
-<img width="1921" height="1080" alt="new Main menu V2" src="https://github.com/user-attachments/assets/b3624e6a-6a38-4f91-a3dc-89e101ca740e" />
+<img width="1921" height="1080" alt="new Main menu V2" src="https://github.com/user-attachments/assets/3d2ca09b-a433-4e95-9799-aed25082a448" />
 
 Gameplay ( STD )
 
-<img width="1921" height="1080" alt="STD" src="https://github.com/user-attachments/assets/e0269b13-0fca-4df1-9d7c-8db8c8d52685" />
+<img width="1921" height="1080" alt="STD" src="https://github.com/user-attachments/assets/07e26d2d-6c2b-4287-aeab-13e74a98bd44" />
 
 Gameplay ( Tako )
 
-<img width="1921" height="1080" alt="Taiko" src="https://github.com/user-attachments/assets/90c9f634-56d6-4def-a5c9-838bccbe2872" />
+<img width="1921" height="1080" alt="Taiko" src="https://github.com/user-attachments/assets/ff0e4163-f32c-4e8a-9324-69753e1e9e64" />
 
 Gameplay ( Ctb )
 
-<img width="1921" height="1080" alt="CTB" src="https://github.com/user-attachments/assets/5f50f66b-fddf-45a0-8dc1-0716f35dac3b" />
+<img width="1921" height="1080" alt="CTB" src="https://github.com/user-attachments/assets/95c43dc9-ecaa-4eff-afc7-47181127906e" />
 
 Gameplay ( Mania )
 
-<img width="1921" height="1080" alt="Mania" src="https://github.com/user-attachments/assets/cb9161c7-1c7c-4a5c-b0dd-69867beef4ac" />
+<img width="1921" height="1080" alt="Mania" src="https://github.com/user-attachments/assets/572eec1d-9136-4aa3-a9ae-d36761934514" />
 
 -----------------------------------------------------------------------------------------------------------------
