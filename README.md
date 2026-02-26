@@ -23,7 +23,10 @@ DELTA 4 0.99b Released
 # Download
 
 DELTA 4 [![GitHub release](https://img.shields.io/github/release/Iceotaku/DELTA4)](https://github.com/Iceotaku/DELTA4/releases/latest) 
+
 Osu!lazer [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)](https://github.com/ppy/osu/releases/latest)
+
+CK Version https://skins.osuck.net/skins/4906?tab=description
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -44,7 +47,15 @@ Main Youtube Channel : https://www.youtube.com/channel/UCS1YLB2ykUdPMWRzul_uQZw
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Project ( update 9/19/2025)
+# Support Project ( update 2/26/2026)
+
+# Option 1 ( For Thailand payment/Donate ) 
+
+Donate with mobile bank account
+
+(Krungthai) >> 545-0-405146 ( i use this only 1 to receive money )
+
+# Option 2 ( For International payment/Donate )
 
 Github : https://github.com/sponsors/Iceotaku
 
@@ -52,7 +63,7 @@ Buy me a coffee : https://buymeacoffee.com/iceotaku
 
 Ko-Fi : https://ko-fi.com/iceotaku
 
-Paypal : It's now private Contact me on DM if want to donate or supported on Paypal
+Paypal : It's now private if you want to supported please dm me to donate in this option
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -78,7 +89,7 @@ Create Project At
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Preview ( Update 6/1/2026 )
+# Preview ( Update 2/26/2026 )
 
 Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
@@ -86,22 +97,26 @@ Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
 (New) Main Menu ( Songselect V2 )
 
-<img width="1921" height="1080" alt="new Main menu V2" src="https://github.com/user-attachments/assets/3d2ca09b-a433-4e95-9799-aed25082a448" />
+<img width="1921" height="1080" alt="new Main menu V2" src="https://github.com/user-attachments/assets/f4c08f15-25be-4a53-8c14-c9622ede56ad" />
 
 Gameplay ( STD )
 
-<img width="1921" height="1080" alt="STD" src="https://github.com/user-attachments/assets/07e26d2d-6c2b-4287-aeab-13e74a98bd44" />
+<img width="1921" height="1080" alt="STD" src="https://github.com/user-attachments/assets/af93d808-5672-497c-95b4-1161387ce5ae" />
+
+Gameplay ( Spin )
+
+<img width="1921" height="1080" alt="Spin" src="https://github.com/user-attachments/assets/1cd86a21-877e-49f6-9e6e-34258c262b65" />
 
 Gameplay ( Tako )
 
-<img width="1921" height="1080" alt="Taiko" src="https://github.com/user-attachments/assets/ff0e4163-f32c-4e8a-9324-69753e1e9e64" />
+<img width="1921" height="1080" alt="Taiko" src="https://github.com/user-attachments/assets/b1cd0fdc-26ed-41a5-bdc6-51f21004e3d9" />
 
 Gameplay ( Ctb )
 
-<img width="1921" height="1080" alt="CTB" src="https://github.com/user-attachments/assets/95c43dc9-ecaa-4eff-afc7-47181127906e" />
+<img width="1921" height="1080" alt="CTB" src="https://github.com/user-attachments/assets/4fd71216-5398-462a-9375-411e12a346cd" />
 
 Gameplay ( Mania )
 
-<img width="1921" height="1080" alt="Mania" src="https://github.com/user-attachments/assets/572eec1d-9136-4aa3-a9ae-d36761934514" />
+<img width="1921" height="1080" alt="Mania" src="https://github.com/user-attachments/assets/9fd367ee-3083-4d84-8364-88fde5767dd8" />
 
 -----------------------------------------------------------------------------------------------------------------
