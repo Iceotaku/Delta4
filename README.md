@@ -89,7 +89,7 @@ Create Project At
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Preview ( Update 2/26/2026 )
+# Preview ( Update 5/12/2026 )
 
 Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
@@ -97,26 +97,26 @@ Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
 (New) Main Menu ( Songselect V2 )
 
-<img width="1921" height="1080" alt="new Main menu V2" src="https://github.com/user-attachments/assets/f4c08f15-25be-4a53-8c14-c9622ede56ad" />
+<img width="1920" height="1080" alt="Discord_KDcwg4N0SQ" src="https://github.com/user-attachments/assets/4db72d51-f878-4ca6-83e3-1aa51cf5fa9d" />
 
 Gameplay ( STD )
 
-<img width="1921" height="1080" alt="STD" src="https://github.com/user-attachments/assets/af93d808-5672-497c-95b4-1161387ce5ae" />
+<img width="1920" height="1080" alt="Discord_X0YmUquQrL" src="https://github.com/user-attachments/assets/b9e6b887-c457-4e27-aeef-6597b3dfee03" />
 
 Gameplay ( Spin )
 
-<img width="1921" height="1080" alt="Spin" src="https://github.com/user-attachments/assets/1cd86a21-877e-49f6-9e6e-34258c262b65" />
+<img width="1920" height="1080" alt="Discord_BHjY0hU2m1" src="https://github.com/user-attachments/assets/106b9fc7-abe0-46f7-ab5e-8e9fc54e3866" />
 
 Gameplay ( Tako )
 
-<img width="1921" height="1080" alt="Taiko" src="https://github.com/user-attachments/assets/b1cd0fdc-26ed-41a5-bdc6-51f21004e3d9" />
+<img width="1920" height="1080" alt="Discord_g6ptQ5NO17" src="https://github.com/user-attachments/assets/f9a56d88-b3ac-4926-be12-5f293be3fcb9" />
 
 Gameplay ( Ctb )
 
-<img width="1921" height="1080" alt="CTB" src="https://github.com/user-attachments/assets/4fd71216-5398-462a-9375-411e12a346cd" />
+<img width="1920" height="1080" alt="Discord_36CWoOfEoj" src="https://github.com/user-attachments/assets/a391f3ff-d855-4c3b-a249-0c5572a62f75" />
 
 Gameplay ( Mania )
 
-<img width="1921" height="1080" alt="Mania" src="https://github.com/user-attachments/assets/9fd367ee-3083-4d84-8364-88fde5767dd8" />
+<img width="1920" height="1080" alt="Discord_Mauok9wXfu" src="https://github.com/user-attachments/assets/7883ff76-5d98-491c-b872-bb2818a31d89" />
 
 -----------------------------------------------------------------------------------------------------------------
