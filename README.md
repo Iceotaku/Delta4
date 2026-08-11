@@ -13,7 +13,8 @@ https://discord.gg/Bj5N9rZshn
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
-![skinStatus](https://github.com/user-attachments/assets/4a1c57c8-558c-49ab-b5d8-40d0cd9c528b)
+<img width="3686" height="1610" alt="skinStatus" src="https://github.com/user-attachments/assets/0b47d331-9073-4b32-b7f9-575c135fa176" />
+
 
 DELTA 4 1.0 Beta Version (Playable but it's beta state)
 
@@ -97,7 +98,7 @@ Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
 (New) Main Menu ( Songselect V2 )
 
-<img width="1920" height="1080" alt="Discord_KDcwg4N0SQ" src="https://github.com/user-attachments/assets/4db72d51-f878-4ca6-83e3-1aa51cf5fa9d" />
+<img width="1920" height="1080" alt="Discord_6A24MTmqbI" src="https://github.com/user-attachments/assets/eebf010f-a2c1-4e42-a355-5884175dd773" />
 
 Gameplay ( STD )
 
