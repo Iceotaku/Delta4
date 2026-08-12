@@ -9,6 +9,7 @@ Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
 ### Join beta tester program  ( Updated 2026/8/12 )
 https://discord.gg/ya53Fu6q5D
+
 -----------------------------------------------------------------------------------------------------------------
 
 # Skin Status
