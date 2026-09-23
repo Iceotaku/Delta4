@@ -1,7 +1,7 @@
 # Delta 4
-![thumbnail](https://github.com/user-attachments/assets/72fecd1a-acfd-4207-a866-68c638012f12)
+<img width="2560" height="1440" alt="Introduce V2" src="https://github.com/user-attachments/assets/f3fc9126-7d82-4b90-9052-cca282a2d588" />
 
-New Osu!lazer skin Project with Simple and minimal concept
+Osu!lazer skin Project with Simple and minimalist Design
 
 Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
@@ -12,13 +12,13 @@ https://discord.gg/ya53Fu6q5D
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Skin Status
-<img width="3686" height="1610" alt="skinStatus" src="https://github.com/user-attachments/assets/0b47d331-9073-4b32-b7f9-575c135fa176" />
+# Skin Status 
+Note : ( Update to ver.2 with new Semi-Darkblue color schematic made by myself )
 
+<img width="2560" height="1440" alt="StatusV2" src="https://github.com/user-attachments/assets/1c6580e2-ceb8-4ef3-8525-973f822915c1" />
 
-DELTA 4 1.0 Beta Version (Playable but it's beta state)
-
-DELTA 4 0.99b Released 
+Note : Main skin still in developerment some preview has been changed for the future without notify
+i decided to update this skin status if got some large update (such like main in-game userinterface etc ) has been update and already uploaded in main discord community
 
 -----------------------------------------------------------------------------------------------------------------
 # Download
@@ -27,11 +27,12 @@ DELTA 4 [![GitHub release](https://img.shields.io/github/release/Iceotaku/DELTA4
 
 Osu!lazer [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)](https://github.com/ppy/osu/releases/latest)
 
-CK Version https://skins.osuck.net/skins/4906?tab=description
+CK Version https://skins.osuck.net/skins/5237
 
 -----------------------------------------------------------------------------------------------------------------
 
 # Video Preview
+
 > Alpha Version : https://www.youtube.com/watch?v=dEQF84R9bJI
 
 > Beta Version : https://www.youtube.com/watch?v=6UNkhZkVsRs
@@ -48,7 +49,7 @@ Main Youtube Channel : https://www.youtube.com/channel/UCS1YLB2ykUdPMWRzul_uQZw
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Project ( update 2/26/2026)
+# Support Project ( update 2/26/2026 )
 
 # Option 1 ( For Thailand payment/Donate ) 
 
@@ -68,7 +69,7 @@ Paypal : It's now private if you want to supported please dm me to donate in thi
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Gamemode
+# Support Gamemode (List of skin supported gamemode has been list below
 
 > STD : Complete
 
@@ -81,7 +82,7 @@ Paypal : It's now private if you want to supported please dm me to donate in thi
 > Custom Gamemode : Continue with extension
 
 -----------------------------------------------------------------------------------------------------------------
-# Last Project
+# Last Project 
 
 DELTA3 (SkyX) : https://osu.ppy.sh/community/forums/topics/651167
 
@@ -90,7 +91,7 @@ Create Project At
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Preview ( Update 5/12/2026 )
+# Preview ( Update 9/24/2026 )
 
 Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
@@ -98,26 +99,26 @@ Main Menu ( Songselect V1 ) This one has legacy now but not deleted yet
 
 (New) Main Menu ( Songselect V2 )
 
-<img width="1920" height="1080" alt="Discord_6A24MTmqbI" src="https://github.com/user-attachments/assets/eebf010f-a2c1-4e42-a355-5884175dd773" />
+<img width="1920" height="1080" alt="osu!_7Kz2T5FxWP" src="https://github.com/user-attachments/assets/137854e7-5628-4523-b1fd-fedfaf07b368" />
 
 Gameplay ( STD )
 
-<img width="1920" height="1080" alt="Discord_X0YmUquQrL" src="https://github.com/user-attachments/assets/b9e6b887-c457-4e27-aeef-6597b3dfee03" />
+<img width="1920" height="1080" alt="osu!_2MYsBlaVrR" src="https://github.com/user-attachments/assets/03c01e9a-1dc5-43ab-9dd2-7356d3e1c5e6" />
 
 Gameplay ( Spin )
 
-<img width="1920" height="1080" alt="Discord_BHjY0hU2m1" src="https://github.com/user-attachments/assets/106b9fc7-abe0-46f7-ab5e-8e9fc54e3866" />
+<img width="1920" height="1080" alt="osu!_N7a9ZE1Lzl" src="https://github.com/user-attachments/assets/f0d916f4-781d-4c52-87ae-78277b519b5a" />
 
 Gameplay ( Tako )
 
-<img width="1920" height="1080" alt="Discord_g6ptQ5NO17" src="https://github.com/user-attachments/assets/f9a56d88-b3ac-4926-be12-5f293be3fcb9" />
+<img width="1920" height="1080" alt="osu!_MJa7dbPMAJ" src="https://github.com/user-attachments/assets/0c610915-a648-4138-be10-a16e7e04582a" />
 
 Gameplay ( Ctb )
 
-<img width="1920" height="1080" alt="Discord_36CWoOfEoj" src="https://github.com/user-attachments/assets/a391f3ff-d855-4c3b-a249-0c5572a62f75" />
+<img width="1920" height="1080" alt="osu!_zHV47BDjTq" src="https://github.com/user-attachments/assets/abf0acb5-0455-49e4-8c50-c52ce3db732f" />
 
 Gameplay ( Mania )
 
-<img width="1920" height="1080" alt="Discord_Mauok9wXfu" src="https://github.com/user-attachments/assets/7883ff76-5d98-491c-b872-bb2818a31d89" />
+<img width="1920" height="1080" alt="osu!_Qf1PLs8Sgk" src="https://github.com/user-attachments/assets/5bf5aa93-2cc1-489f-8dcd-3cb1f69393dd" />
 
 -----------------------------------------------------------------------------------------------------------------
