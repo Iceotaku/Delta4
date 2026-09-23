@@ -69,7 +69,7 @@ Paypal : It's now private if you want to supported please dm me to donate in thi
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Support Gamemode (List of skin supported gamemode has been list below
+# Support Gamemode ( List of skin supported gamemode has been list below )
 
 > STD : Complete
 
