@@ -7,8 +7,10 @@ Osu!Forums: https://osu.ppy.sh/community/forums/topics/1120153
 
 -----------------------------------------------------------------------------------------------------------------
 
-### Join beta tester program  ( Updated 2026/8/12 )
-https://discord.gg/ya53Fu6q5D
+### Join beta tester program  ( Updated 2026/10/19 )
+Note : This discord link you have to submit appication to join Otherwise you not able to gain access skin request
+
+https://discord.gg/fNqQYH3bEd
 
 -----------------------------------------------------------------------------------------------------------------
 
